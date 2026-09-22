@@ -1,6 +1,6 @@
 # hostinfo Python
 
-A Python port of the hostinfo test application.
+A Python port of the hostinfo test application.  
 
 
 ## Build Instructions
