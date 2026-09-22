@@ -3,7 +3,7 @@
 A Python port of the hostinfo test application.
 
 
-## Build Instructions
+## Build Instructions 
 
 A [Dockerfile](./Dockerfile) is included in this repo to create a container.
 
